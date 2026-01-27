@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1769540165482",
+    "title": "D & S HOUSE - VILLA D'ISTANBUL",
+    "category": "Residential",
+    "location": "Mecidiyeköy, İstanbul",
+    "year": "2026",
+    "lang": "fr",
+    "image": "/uploads/blog/1769539250307-guh3zc.jpg",
+    "description": "Un subtil mélange de luxe et d'élégance… Chaque détail, pensé avec soin pour sublimer l'espace de vie, témoigne d'un raffinement exceptionnel. Ce projet nous a permis d'interpréter différemment les notions de temps et d'espace.",
+    "createdAt": "2026-01-27T18:56:05.482Z"
+  },
+  {
+    "id": "1769540106878",
+    "title": "منزل دي آند إس - فيلا إسطنبول",
+    "category": "Residential",
+    "location": "Mecidiyeköy, İstanbul",
+    "year": "2026",
+    "lang": "ar",
+    "image": "/uploads/blog/1769539250307-guh3zc.jpg",
+    "description": "مزيج متوازن من الفخامة والأناقة... كل تفصيل، مصمم بعناية فائقة ليُضفي لمسة إيجابية على مساحة المعيشة، يعكس ذوقًا رفيعًا. من خلال هذا المشروع، قدمنا ​​تفسيرًا مختلفًا لمفهومي الزمان والمكان.",
+    "createdAt": "2026-01-27T18:55:06.878Z"
+  },
+  {
+    "id": "1769540069832",
+    "title": "D & S HOUSE - Вилла в Стамбуле",
+    "category": "Residential",
+    "location": "Mecidiyeköy, İstanbul",
+    "year": "2026",
+    "lang": "ru",
+    "image": "/uploads/blog/1769539250307-guh3zc.jpg",
+    "description": "Сбалансированное сочетание роскоши и элегантности… Каждая деталь, тщательно продуманная для создания позитивного впечатления в жилом пространстве, отражает утонченный вкус. В этом проекте мы по-новому интерпретировали понятия времени и пространства.",
+    "createdAt": "2026-01-27T18:54:29.832Z"
+  },
+  {
+    "id": "1769540020750",
+    "title": "D & S HOUSE - ISTANBUL VILLA",
+    "category": "Residential",
+    "location": "Mecidiyeköy, İstanbul",
+    "year": "2026",
+    "lang": "en",
+    "image": "/uploads/blog/1769539250307-guh3zc.jpg",
+    "description": "A balanced blend of luxury and elegance… Every detail, thoughtfully designed to create a positive impact in the living space, reflects a refined sensibility. With this project, we have brought a different interpretation to the concepts of time and space.",
+    "createdAt": "2026-01-27T18:53:40.750Z"
+  },
+  {
+    "id": "1769539250769",
+    "title": "D & S HOUSE - İSTANBUL VİLLA",
+    "category": "Residential",
+    "location": "Mecidiyeköy, İstanbul",
+    "year": "2026",
+    "lang": "tr",
+    "image": "/uploads/blog/1769539250307-guh3zc.jpg",
+    "description": "Lüksün eleganla dengeli birlikteliği… Yaşam alanında pozitif etki yaratması için düşünülmüş her detayda ayrı bir incelik. Bu projeyle, zaman ve mekan kavramına farklı bir yorum getirdik.",
+    "createdAt": "2026-01-27T18:40:50.769Z"
+  }
+]

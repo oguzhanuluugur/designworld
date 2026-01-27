@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-playfair: 'Playfair Display', serif;
+    --font-inter: 'Inter', sans-serif;
+  }
+
+  body {
+    @apply bg-bg text-text antialiased;
+    font-family: var(--font-inter);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-playfair);
+    @apply font-light; /* Thin, elegant serif for modern look */
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Custom scrollbar for luxury feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-bg-subtle;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gold/20 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gold/40;
+}
+
+/* Custom Swiper Styles for Luxury Lookbook */
+.swiper-pagination-custom {
+  font-family: var(--font-inter);
+  letter-spacing: 0.1em;
+}
+
+.swiper-button-disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Smooth transitions for luxury feel */
+.swiper-slide {
+  transition: opacity 1.2s ease-in-out;
+}

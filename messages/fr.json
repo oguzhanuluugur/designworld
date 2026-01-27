@@ -1,0 +1,85 @@
+{
+  "Nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À Propos",
+    "contact": "Contact",
+    "getQuote": "Obtenir un Devis"
+  },
+  "Hero": {
+    "slide1_title": "Harmonie Parfaite de l'Esthétique et de la Fonction",
+    "slide1_sub": "Nous transformons vos espaces de vie en œuvres d'art qui reflètent votre personnalité.",
+    "slide2_title": "Architecture Durable et Innovante",
+    "slide2_sub": "Conception de structures modernes et intemporelles intégrées à la nature.",
+    "slide3_title": "La Perfection Cachée dans les Détails",
+    "slide3_sub": "Nous redéfinissons le luxe avec une qualité de matériaux supérieure et un savoir-faire raffiné.",
+    "cta": "Voir les Projets"
+  },
+  "Philosophy": {
+    "title1": "PASSION",
+    "title2": "ARCHITECTURALE",
+    "desc": "Chaque ligne est une histoire, chaque espace est un mode de vie."
+  },
+  "Services": {
+    "title": "Nos Services",
+    "subtitle": "L'excellence à chaque étape, de la conception à l'exécution.",
+    "s1_title": "Conception Conceptuelle",
+    "s1_desc": "Des idées pionnières qui révèlent l'âme et le potentiel de l'espace, alliant esthétique et fonction.",
+    "s2_title": "Projets d'Exécution",
+    "s2_desc": "Préparation de tous les détails techniques et solutions d'ingénierie nécessaires pour transformer le design en réalité.",
+    "s3_title": "Décoration Intérieure",
+    "s3_desc": "Donner une identité aux espaces de vie avec des matériaux de luxe, du mobilier sur mesure et un éclairage adéquat.",
+    "s4_title": "Gestion de Projet",
+    "s4_desc": "Gestion de chantier impeccable et solutions clé en main dans le triangle budget, temps et qualité."
+  },
+  "Projects": {
+    "title": "Nos Projets",
+    "subtitle": "Chaque projet est une histoire. Un portfolio de nos travaux réalisés.",
+    "viewDetails": "Voir les Détails",
+    "whatsapp_msg_project": "Obtenir un Devis pour Ce Projet",
+    "p1_type": "Résidentiel",
+    "p1_desc": "Un penthouse duplex ultra-luxe dominant la vue panoramique de la ville, alliant la chaleur de la pierre naturelle et du bois à des détails modernes, équipé de systèmes domotiques.",
+    "p2_type": "Commercial",
+    "p2_desc": "Une configuration hybride de bureaux ouverts et de zones de direction privées où l'identité de l'entreprise se reflète dans l'espace, privilégiant l'ergonomie et l'efficacité.",
+    "p3_type": "Architecture",
+    "p3_desc": "Un manoir d'été respectant la texture locale de l'Égée, conçu avec des matériaux durables, doté d'une piscine à débordement et de vastes terrasses.",
+    "p4_type": "Hospitalité",
+    "p4_desc": "Une expérience gastronomique raffinée alliant texture historique et gastronomie moderne, où le confort acoustique et l'éclairage atmosphérique jouent le rôle principal."
+  },
+  "CTA": {
+    "title": "Transformons votre vision en réalité",
+    "desc": "Conseil architectural stratégique et solutions de mise en œuvre pour vos projets industriels, commerciaux ou résidentiels. Nous donnons vie à votre vision avec des projets clé en main.",
+    "button": "Obtenir un Devis",
+    "whatsapp_msg": "Bonjour, je souhaite obtenir des informations sur le conseil en projet architectural et le processus de devis via votre site web.",
+    "stat_projects": "Projets Réalisés",
+    "stat_exp": "Années d'Expérience",
+    "stat_satisfaction": "Satisfaction Client"
+  },
+  "Insights": {
+    "title": "Idées et Tendances",
+    "subtitle": "Agenda Architectural",
+    "viewAll": "Voir Tous les Articles",
+    "readMore": "Lire la Suite",
+    "a1_title": "Architecture Durable et Certification LEED",
+    "a1_cat": "BÂTIMENT VERT",
+    "a1_excerpt": "L'impact des structures qui réduisent l'empreinte carbone, ont une haute efficacité énergétique et s'intègrent à la nature sur la valeur de l'immobilier commercial.",
+    "a1_content": "L'architecture durable n'est pas seulement une tendance ; c'est une approche de conception stratégique qui se place au centre de la transformation urbaine et de la perception de la marque d'entreprise. Les projets certifiés LEED réduisent les coûts d'exploitation et gagnent en prestige grâce à des choix conscients en matière d'efficacité énergétique, de gestion de l'eau et de sélection des matériaux.\n\nL'utilisation de la lumière naturelle, les stratégies de climatisation passive et les systèmes de façade haute performance augmentent le confort des utilisateurs tout en réduisant l'empreinte carbone. Dans de tels projets, la minimisation des ponts thermiques, des valeurs d'isolation élevées et l'intégration des énergies renouvelables doivent être abordées dès les premières phases de conception.\n\nDu côté des investisseurs, la valeur locative et les taux d'occupation des bureaux et structures commerciales durables sont plus élevés par rapport aux bâtiments traditionnels. Les locataires corporatifs se tournent vers des structures certifiées à faible impact environnemental conformément aux critères ESG ; cela augmente durablement la valeur à long terme des projets.\n\nDans ce contexte, la gestion du processus LEED intégré aux disciplines architecturales, mécaniques et électriques nécessite une équipe de conseil architectural expérimentée tant dans les phases de conception que de mise en œuvre.",
+    "a2_title": "Conception de Bureaux à l'Ère Post-Pandémique",
+    "a2_cat": "LIEU DE TRAVAIL",
+    "a2_excerpt": "Un examen des configurations de bureaux de nouvelle génération qui sont flexibles, ergonomiques et favorisent la collaboration pour les modèles de travail hybrides.",
+    "a2_content": "L'ère post-pandémique a radicalement redéfini les typologies de bureaux. Les modèles hybrides, où les employés viennent au bureau physique certains jours de la semaine, ont mis en évidence le besoin de flexibilité et de modularité dans l'organisation spatiale. Les bureaux ne sont plus seulement des arrangements de tables ; ce sont des espaces d'expérience reflétant la marque et la culture d'entreprise.\n\nAlors que les espaces de bureaux ouverts sont soutenus par des solutions acoustiques permettant la concentration, des cabines téléphoniques et des niches de travail silencieuses, les espaces de réunion et d'atelier flexibles où les équipes de projet peuvent se réunir s'installent également au centre de la planification. Dans toute cette configuration, l'ergonomie, la lumière naturelle et la qualité de l'air sont des paramètres fondamentaux affectant directement l'efficacité des employés.\n\nTraiter la stratégie de lieu de travail et la conception architecturale sous le même toit offre un grand avantage en termes de circulation inter-départementale, de scénarios d'utilisateurs et d'optimisation des mètres carrés. Ainsi, les coûts de location sont gérés correctement et l'expérience employé est renforcée.\n\nIntégrer l'identité de l'entreprise dans l'espace ne se limite pas à l'utilisation du logo ; rendre visibles les valeurs de la marque à travers un langage de conception intemporel via la palette de matériaux, le langage de l'éclairage et les œuvres d'art est désormais un critère indispensable pour les bureaux de nouvelle génération.",
+    "a3_title": "Intégration de l'IA dans les Systèmes de Maison Intelligente",
+    "a3_cat": "TECHNOLOGIE",
+    "a3_excerpt": "Comment les systèmes d'automatisation basés sur l'IoT redéfinissent les normes de confort et de sécurité dans les projets résidentiels de luxe.",
+    "a3_content": "Les technologies de maison intelligente sont devenues une infrastructure invisible optimisant simultanément le confort, la sécurité et l'efficacité énergétique dans les projets résidentiels de luxe. Les systèmes assistés par IA peuvent personnaliser automatiquement l'éclairage, la climatisation et le contrôle des rideaux en apprenant les habitudes des utilisateurs.\n\nGrâce aux capteurs basés sur l'IoT, l'espace peut prendre des décisions instantanées en fonction du mouvement, des niveaux de lumière du jour et de la qualité de l'air intérieur. Cela réduit non seulement la consommation d'énergie, mais maintient également constamment le confort spatial dans la plage idéale. Surtout dans les villas de grande envergure, la climatisation par zone et les scénarios de sécurité intelligents offrent une grande facilité opérationnelle.\n\nL'intégration de ces technologies dans le processus de conception architecturale ne se limite pas à la planification des volumes techniques ; elle nécessite un langage architectural intérieur propre et simple où la visibilité des appareils est minimisée dans les détails des murs, des plafonds et des meubles.\n\nEn conclusion, l'infrastructure de maison intelligente assistée par IA se distingue à la fois comme un argument marketing et un élément d'investissement critique différenciant l'expérience utilisateur dans les projets résidentiels de luxe."
+  },
+  "Footer": {
+    "desc": "La combinaison parfaite de l'esthétique, de la fonction et de la durabilité.",
+    "links": "Liens Rapides",
+    "contact": "Contact",
+    "copyright": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation"
+  }
+}
+

@@ -1,0 +1,85 @@
+{
+  "Nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About Us",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "Hero": {
+    "slide1_title": "Perfect Harmony of Aesthetics & Function",
+    "slide1_sub": "We transform your living spaces into art pieces that reflect your personality.",
+    "slide2_title": "Sustainable & Innovative Architecture",
+    "slide2_sub": "Designing modern, timeless structures integrated with nature.",
+    "slide3_title": "Perfection Hidden in Details",
+    "slide3_sub": "Redefining luxury with superior material quality and fine craftsmanship.",
+    "cta": "View Projects"
+  },
+  "Philosophy": {
+    "title1": "ARCHITECTURAL",
+    "title2": "PASSION",
+    "desc": "Every line is a story, every space is a lifestyle."
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Excellence at every stage, from design to execution.",
+    "s1_title": "Concept Design",
+    "s1_desc": "Pioneering ideas that reveal the soul and potential of the space, combining aesthetics and function.",
+    "s2_title": "Application Projects",
+    "s2_desc": "Preparation of all technical details and engineering solutions required to turn the design into reality.",
+    "s3_title": "Interior Decoration",
+    "s3_desc": "Giving identity to living spaces with luxury materials, custom furniture, and correct lighting.",
+    "s4_title": "Project Management",
+    "s4_desc": "Flawless site management and turnkey solutions within the triangle of budget, time, and quality."
+  },
+  "Projects": {
+    "title": "Our Projects",
+    "subtitle": "Every project is a story. A portfolio of our realized works.",
+    "viewDetails": "View Details",
+    "whatsapp_msg_project": "Get a Quote for This Project",
+    "p1_type": "Residential",
+    "p1_desc": "An ultra-luxury penthouse duplex dominating the panoramic city view, combining the warmth of natural stone and wood with modern details, equipped with smart home systems.",
+    "p2_type": "Commercial",
+    "p2_desc": "A hybrid setup of open offices and private executive areas where corporate identity is reflected in the space, prioritizing ergonomics and efficiency.",
+    "p3_type": "Architecture",
+    "p3_desc": "A summer mansion respecting the local texture of the Aegean, designed with sustainable materials, featuring an infinity pool and large terrace areas.",
+    "p4_type": "Hospitality",
+    "p4_desc": "A fine-dining experience bringing historical texture together with modern gastronomy, where acoustic comfort and atmospheric lighting play the leading role."
+  },
+  "CTA": {
+    "title": "Let's Turn Your Vision into Reality",
+    "desc": "Strategic architectural consultancy and implementation solutions for your industrial, commercial, or residential projects. We bring your vision to life with turnkey projects.",
+    "button": "Get a Quote",
+    "whatsapp_msg": "Hello, I would like to get information about architectural project consultancy and the quotation process via your website.",
+    "stat_projects": "Completed Projects",
+    "stat_exp": "Years Experience",
+    "stat_satisfaction": "Client Satisfaction"
+  },
+  "Insights": {
+    "title": "Insights & Trends",
+    "subtitle": "Architectural Agenda",
+    "viewAll": "View All Articles",
+    "readMore": "Read More",
+    "a1_title": "Sustainable Architecture and LEED Certification",
+    "a1_cat": "GREEN BUILDING",
+    "a1_excerpt": "The impact of structures that reduce carbon footprint, have high energy efficiency, and integrate with nature on commercial real estate value.",
+    "a1_content": "Sustainable architecture is not just a trend; it is a strategic design approach that sits at the center of urban transformation and corporate brand perception. LEED-certified projects reduce operating costs and gain prestige through conscious choices in energy efficiency, water management, and material selection.\n\nUse of natural light, passive climatization strategies, and high-performance facade systems increase user comfort while reducing the carbon footprint. In such projects, minimizing thermal bridges, high insulation values, and renewable energy integration must be addressed from the early phases of design.\n\nOn the investor side, the rental value and occupancy rates of sustainable office and commercial structures are higher compared to traditional buildings. Corporate tenants are turning towards certified structures with low environmental impact in line with ESG criteria; this permanently increases the long-term value of the projects.\n\nIn this context, managing the LEED process integrated with architectural, mechanical, and electrical disciplines requires an experienced architectural consultancy team in both design and implementation phases.",
+    "a2_title": "Office Design in the Post-Pandemic Era",
+    "a2_cat": "WORKPLACE",
+    "a2_excerpt": "An examination of new generation office setups that are flexible, ergonomic, and enhance collaboration for hybrid working models.",
+    "a2_content": "The post-pandemic era has radically redefined office typologies. Hybrid models, where employees come to the physical office on certain days of the week, have highlighted the need for flexibility and modularity in spatial setup. Offices are no longer just desk arrangements; they are experience spaces reflecting the brand and corporate culture.\n\nWhile open office areas are supported by acoustic solutions allowing focus, phone booths, and quiet work niches, flexible meeting and workshop areas where project-based teams can come together are also settling into the center of planning. In all this setup, ergonomics, natural light, and air quality are fundamental parameters directly affecting employee efficiency.\n\nHandling workplace strategy and architectural design under the same roof provides a great advantage in terms of inter-departmental circulation, user scenarios, and square meter optimization. Thus, both rental costs are managed correctly, and employee experience is strengthened.\n\nEmbedding corporate identity into the space is not limited to logo usage; making the brand's values visible through a timeless design language via material palette, lighting language, and artworks is now an indispensable criterion for new generation offices.",
+    "a3_title": "AI Integration in Smart Home Systems",
+    "a3_cat": "TECHNOLOGY",
+    "a3_excerpt": "How IoT-based automation systems redefine comfort and safety standards in luxury residential projects.",
+    "a3_content": "Smart home technologies have become an invisible infrastructure optimizing comfort, security, and energy efficiency simultaneously in luxury residential projects. AI-supported systems can automatically personalize lighting, climatization, and curtain control by learning user habits.\n\nThanks to IoT-based sensors, the space can make instant decisions based on movement, daylight levels, and indoor air quality. This both reduces energy consumption and constantly keeps spatial comfort in the ideal range. Especially in large-scale villas, zone-based climatization and smart security scenarios provide serious operational ease.\n\nIntegration of these technologies in the architectural design process is not limited to planning technical volumes; it requires a clean and simple interior architectural language where device visibility is minimized in wall, ceiling, and furniture details.\n\nIn conclusion, AI-supported smart home infrastructure stands out as both a marketing argument and a critical investment item differentiating the user experience in luxury residential projects."
+  },
+  "Footer": {
+    "desc": "The perfect combination of aesthetics, function, and sustainability.",
+    "links": "Quick Links",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}
+

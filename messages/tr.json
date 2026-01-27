@@ -1,0 +1,85 @@
+{
+  "Nav": {
+    "home": "Anasayfa",
+    "projects": "Projeler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "getQuote": "Teklif Alın"
+  },
+  "Hero": {
+    "slide1_title": "Estetik ve Fonksiyonun Mükemmel Uyumu",
+    "slide1_sub": "Yaşam alanlarınızı, kişiliğinizi yansıtan sanat eserlerine dönüştürüyoruz.",
+    "slide2_title": "Sürdürülebilir ve Yenilikçi Mimari",
+    "slide2_sub": "Doğayla bütünleşen, modern ve zamansız yapılar tasarlıyoruz.",
+    "slide3_title": "Detaylarda Gizli Kusursuzluk",
+    "slide3_sub": "Malzeme kalitesi ve ince işçilikle lüksü yeniden tanımlıyoruz.",
+    "cta": "Projeleri İncele"
+  },
+  "Philosophy": {
+    "title1": "MİMARİ",
+    "title2": "TUTKU",
+    "desc": "Her çizgi bir hikaye, her mekan bir yaşam biçimidir."
+  },
+  "Services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Tasarımdan uygulamaya, her aşamada mükemmellik",
+    "s1_title": "Konsept Tasarım",
+    "s1_desc": "Mekânın ruhunu ve potansiyelini ortaya çıkaran, estetik ve fonksiyonu birleştiren öncü fikirler.",
+    "s2_title": "Uygulama Projeleri",
+    "s2_desc": "Tasarımın gerçeğe dönüşmesi için gerekli tüm teknik detayların ve mühendislik çözümlerinin hazırlanması.",
+    "s3_title": "İç Mekan Dekorasyon",
+    "s3_desc": "Lüks malzemeler, özel mobilyalar ve doğru aydınlatma ile yaşam alanlarına kimlik kazandırılması.",
+    "s4_title": "Proje Yönetimi",
+    "s4_desc": "Bütçe, zaman ve kalite üçgeninde şantiyenin kusursuz yönetimi ve anahtar teslim çözümler."
+  },
+  "Projects": {
+    "title": "Projelerimiz",
+    "subtitle": "Her proje, bir hikaye. Gerçekleştirdiğimiz işler portföyü.",
+    "viewDetails": "Detayları İncele",
+    "whatsapp_msg_project": "Bu Proje İçin Teklif Alın",
+    "p1_type": "Konut",
+    "p1_desc": "Panoramik şehir manzarasına hakim, doğal taş ve ahşabın sıcaklığını modern detaylarla birleştiren, akıllı ev sistemleriyle donatılmış ultra lüks çatı dubleksi.",
+    "p2_type": "Ticari",
+    "p2_desc": "Kurumsal kimliği mekana yansıtan, ergonomi ve verimliliğin ön planda tutulduğu, açık ofis ve özel yönetici alanlarının hibrit kurgusu.",
+    "p3_type": "Mimari",
+    "p3_desc": "Ege'nin yerel dokusuna saygılı, sürdürülebilir malzemelerle tasarlanan, sonsuzluk havuzu ve geniş teras alanlarına sahip yazlık malikane.",
+    "p4_type": "Hospitality",
+    "p4_desc": "Tarihi dokuyla modern gastronomiyi buluşturan, akustik konforun ve atmosferik aydınlatmanın başrolde olduğu fine-dining deneyimi."
+  },
+  "CTA": {
+    "title": "Vizyonunuzu Gerçeğe Dönüştürelim",
+    "desc": "Endüstriyel, ticari veya konut projeleriniz için stratejik mimari danışmanlık ve uygulama çözümleri. Anahtar teslim projelerle vizyonunuzu hayata geçiriyoruz.",
+    "button": "Teklif Alın",
+    "whatsapp_msg": "Merhaba, web siteniz üzerinden mimari proje danışmanlığı ve teklif süreci hakkında bilgi almak istiyorum.",
+    "stat_projects": "Tamamlanan Proje",
+    "stat_exp": "Yıllık Deneyim",
+    "stat_satisfaction": "Müşteri Memnuniyeti"
+  },
+  "Insights": {
+    "title": "Görüşler & Trendler",
+    "subtitle": "Mimari Gündem",
+    "viewAll": "Tüm Yazıları İncele",
+    "readMore": "Devamını Oku",
+    "a1_title": "Sürdürülebilir Mimari ve LEED Sertifikasyonu",
+    "a1_cat": "GREEN BUILDING",
+    "a1_excerpt": "Karbon ayak izini düşüren, enerji verimliliği yüksek ve doğayla bütünleşen yapıların ticari gayrimenkul değerine etkisi.",
+    "a1_content": "Sürdürülebilir mimari, yalnızca bir trend değil; kentsel dönüşümün ve kurumsal marka algısının merkezine yerleşen stratejik bir tasarım yaklaşımıdır. LEED sertifikalı projeler, enerji verimliliği, su yönetimi ve malzeme seçimindeki bilinçli tercihlerle hem işletme maliyetlerini düşürür hem de prestij kazandırır.\n\nDoğal ışık kullanımı, pasif iklimlendirme stratejileri ve yüksek performanslı cephe sistemleri, karbon ayak izini azaltırken kullanıcı konforunu artırır. Bu tip projelerde; ısı köprülerinin minimize edilmesi, yüksek yalıtım değerleri ve yenilenebilir enerji entegrasyonu, tasarımın erken fazlarından itibaren ele alınmalıdır.\n\nYatırımcı tarafında ise, sürdürülebilir ofis ve ticari yapıların kira değeri ve doluluk oranları geleneksel binalara kıyasla daha yüksektir. Kurumsal kiracılar, ESG kriterleri doğrultusunda çevresel etkisi düşük, sertifikalı yapılara yönelmekte; bu da projelerin uzun vadeli değerini kalıcı biçimde artırmaktadır.\n\nBu bağlamda, LEED sürecinin mimari, mekanik ve elektrik disiplinleriyle entegre biçimde yönetilmesi; hem tasarım hem de uygulama aşamasında deneyimli bir mimari danışmanlık ekibini zorunlu kılar.",
+    "a2_title": "Post-Pandemi Döneminde Ofis Tasarımı",
+    "a2_cat": "WORKPLACE",
+    "a2_excerpt": "Hibrit çalışma modelleri için esnek, ergonomik ve iş birliğini artıran yeni nesil ofis kurguları üzerine bir inceleme.",
+    "a2_content": "Post-pandemi dönemi, ofis tipolojilerini kökten yeniden tanımladı. Çalışanların haftanın belirli günlerinde fiziksel ofise geldiği hibrit modeller, mekân kurgusunda esneklik ve modülerlik ihtiyacını ön plana çıkardı. Artık ofisler yalnızca masa düzenlerinden ibaret değil; markayı ve kurumsal kültürü yansıtan deneyim alanları.\n\nAçık ofis alanları; odaklanmaya izin veren akustik çözümler, telefon kabinleri ve sessiz çalışma nişleriyle desteklenirken, proje bazlı ekiplerin bir araya gelebildiği esnek toplantı ve workshop alanları da planlamanın merkezine yerleşiyor. Tüm bu kurguda ergonomi, doğal ışık ve hava kalitesi, çalışan verimliliğini doğrudan etkileyen temel parametreler.\n\nWorkplace stratejisi ile mimari tasarımın aynı çatı altında ele alınması; departmanlar arası dolaşım, kullanıcı senaryoları ve metrekare optimizasyonu açısından büyük avantaj sağlıyor. Böylece, hem kira maliyetleri doğru yönetiliyor hem de çalışan deneyimi güçleniyor.\n\nKurumsal kimliğin mekâna yedirilmesi ise yalnızca logo kullanımıyla sınırlı değil; malzeme paleti, aydınlatma dili ve sanat eserleri üzerinden, markanın değerlerini zamansız bir tasarım diliyle görünür kılmak artık yeni nesil ofislerin vazgeçilmez kriteri.",
+    "a3_title": "Akıllı Ev Sistemlerinde Yapay Zeka Entegrasyonu",
+    "a3_cat": "TECHNOLOGY",
+    "a3_excerpt": "IoT tabanlı otomasyon sistemlerinin lüks konut projelerinde konfor ve güvenlik standartlarını nasıl yeniden tanımladığı.",
+    "a3_content": "Akıllı ev teknolojileri, lüks konut projelerinde konfor, güvenlik ve enerji verimliliğini aynı anda optimize eden görünmez bir altyapı haline geldi. Yapay zeka destekli sistemler; kullanıcı alışkanlıklarını öğrenerek aydınlatma, iklimlendirme ve perde kontrolünü otomatik olarak kişiselleştirebiliyor.\n\nIoT tabanlı sensörler sayesinde mekân; hareket, gün ışığı seviyesi ve iç hava kalitesine göre anlık kararlar alabiliyor. Bu da hem enerji tüketimini azaltıyor hem de mekânsal konforu sürekli ideal aralıkta tutuyor. Özellikle geniş metrajlı villalarda, zon bazlı iklimlendirme ve akıllı güvenlik senaryoları ciddi operasyonel kolaylık sağlıyor.\n\nMimari tasarım sürecinde bu teknolojilerin entegrasyonu, yalnızca teknik hacimlerin planlanmasıyla sınırlı değil; duvar, tavan ve mobilya detaylarında cihaz görünürlüğünün minimuma indirildiği, temiz ve yalın bir iç mimari dil gerektiriyor.\n\nSonuç olarak, yapay zeka destekli akıllı ev altyapısı, lüks konut projelerinde hem pazarlama argümanı hem de kullanıcı deneyimini farklılaştıran kritik bir yatırım kalemi olarak öne çıkıyor."
+  },
+  "Footer": {
+    "desc": "Estetik, fonksiyon ve sürdürülebilirliğin kusursuz birleşimi.",
+    "links": "Hızlı Erişim",
+    "contact": "İletişim",
+    "copyright": "Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları"
+  }
+}
+
