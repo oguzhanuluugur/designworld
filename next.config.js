@@ -4,7 +4,18 @@ const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // ✅ GitHub Pages: statik export
+  output: 'export',
+  trailingSlash: true,
+
+  // ✅ Repo adı ile aynı olmalı (https://oguzhanuluugur.github.io/designworld/)
+  basePath: '/designworld',
+  assetPrefix: '/designworld/',
+
   images: {
+    // ✅ GH Pages'te Next Image optimizer yok
+    unoptimized: true,
+
     remotePatterns: [
       {
         protocol: 'https',
@@ -18,6 +29,7 @@ const nextConfig = {
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
+
   // Reduce memory usage during compilation
   webpack: (config, { isServer }) => {
     if (!isServer) {
@@ -44,4 +56,3 @@ const nextConfig = {
 };
 
 module.exports = withNextIntl(nextConfig);
-
