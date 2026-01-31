@@ -16,10 +16,8 @@ const playfair = Playfair_Display({
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="tr" className={`${inter.variable} ${playfair.variable}`}>
-      <body className={`${inter.className} antialiased`}>
-        <AdminLayoutClient>{children}</AdminLayoutClient>
-      </body>
-    </html>
+    <div className={`${inter.variable} ${playfair.variable} ${inter.className} antialiased`}>
+      <AdminLayoutClient>{children}</AdminLayoutClient>
+    </div>
   )
 }

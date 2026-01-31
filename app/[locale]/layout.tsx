@@ -3,6 +3,7 @@ import { Playfair_Display, Inter } from 'next/font/google';
 import Script from 'next/script';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import LocaleDocumentAttributes from '@/components/LocaleDocumentAttributes';
 import '../globals.css';
 
 const playfair = Playfair_Display({
@@ -147,36 +148,35 @@ export default async function LocaleLayout({
   children: React.ReactNode;
   params: { locale: string };
 }) {
-  const dir = locale === 'ar' ? 'rtl' : 'ltr';
-
-  // Fetch messages for the active locale from next-intl's request config
+  // Root layout owns <html>/<body>; we set lang/dir via client to avoid duplicate tags
   const messages = await getMessages();
 
   return (
-    <html lang={locale} dir={dir} className="scroll-smooth" suppressHydrationWarning>
-      <body className={`${playfair.variable} ${inter.variable}`}>
-        <Script
-          id="json-ld"
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-        <NextIntlClientProvider messages={messages}>
+    <>
+      <LocaleDocumentAttributes locale={locale} />
+      <Script
+        id="json-ld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <NextIntlClientProvider messages={messages}>
+        <div className={`${playfair.variable} ${inter.variable} scroll-smooth min-h-screen`}>
           {children}
-        </NextIntlClientProvider>
-
-        {/* ARCHITECTURAL CORNER ACCENTS */}
-        <div className="fixed inset-0 z-[999] pointer-events-none" aria-hidden="true">
-          {/* Top Left */}
-          <div className="absolute top-6 left-6 w-12 h-12 border-t-2 border-l-2 border-[#C5A059] opacity-90 rounded-tl-sm" />
-          {/* Top Right */}
-          <div className="absolute top-6 right-6 w-12 h-12 border-t-2 border-r-2 border-[#C5A059] opacity-90 rounded-tr-sm" />
-          {/* Bottom Left */}
-          <div className="absolute bottom-6 left-6 w-12 h-12 border-b-2 border-l-2 border-[#C5A059] opacity-90 rounded-bl-sm" />
-          {/* Bottom Right */}
-          <div className="absolute bottom-6 right-6 w-12 h-12 border-b-2 border-r-2 border-[#C5A059] opacity-90 rounded-br-sm" />
         </div>
-      </body>
-    </html>
+      </NextIntlClientProvider>
+
+      {/* ARCHITECTURAL CORNER ACCENTS */}
+      <div className="fixed inset-0 z-[999] pointer-events-none" aria-hidden="true">
+        {/* Top Left */}
+        <div className="absolute top-6 left-6 w-12 h-12 border-t-2 border-l-2 border-[#C5A059] opacity-90 rounded-tl-sm" />
+        {/* Top Right */}
+        <div className="absolute top-6 right-6 w-12 h-12 border-t-2 border-r-2 border-[#C5A059] opacity-90 rounded-tr-sm" />
+        {/* Bottom Left */}
+        <div className="absolute bottom-6 left-6 w-12 h-12 border-b-2 border-l-2 border-[#C5A059] opacity-90 rounded-bl-sm" />
+        {/* Bottom Right */}
+        <div className="absolute bottom-6 right-6 w-12 h-12 border-b-2 border-r-2 border-[#C5A059] opacity-90 rounded-br-sm" />
+      </div>
+    </>
   );
 }
 

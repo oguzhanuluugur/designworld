@@ -2,13 +2,16 @@ const createNextIntlPlugin = require('next-intl/plugin');
 
 const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
+// On Vercel, app is at root; on GitHub Pages, app is at /designworld
+const basePath = process.env.VERCEL ? '' : '/designworld';
+const assetPrefix = process.env.VERCEL ? undefined : '/designworld/';
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   trailingSlash: true,
 
-  // ✅ Repo adı ile aynı olmalı (https://oguzhanuluugur.github.io/designworld/)
-  basePath: '/designworld',
-  assetPrefix: '/designworld/',
+  basePath: basePath || undefined,
+  ...(assetPrefix && { assetPrefix }),
 
   images: {
     // ✅ GH Pages'te Next Image optimizer yok
