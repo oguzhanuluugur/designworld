@@ -208,7 +208,7 @@ export default function ProjectsShowcase() {
           }}
           className="w-full"
         >
-          {allProjects.map((project) => (
+          {allProjects.map((project, index) => (
             <SwiperSlide key={project.id} className="bg-white">
               {/* Split Screen Layout */}
               <div className="grid grid-cols-1 lg:grid-cols-5 min-h-[70vh] lg:min-h-[80vh] bg-white">
@@ -219,8 +219,8 @@ export default function ProjectsShowcase() {
                     alt={project.imageAlt}
                     fill
                     className="object-cover"
-                    sizes="(max-width: 1024px) 100vw, 60vw"
-                    priority
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 60vw"
+                    priority={index === 0}
                   />
                   {/* Subtle gradient overlay for text readability */}
                   <div className="absolute inset-0 bg-gradient-to-r from-black/20 to-transparent lg:hidden" />
@@ -381,8 +381,8 @@ export default function ProjectsShowcase() {
                 alt={selectedProject.imageAlt}
                 fill
                 className="object-cover"
-                sizes="100vw"
-                priority
+                sizes="(max-width: 768px) 100vw, 80vw"
+                priority={false}
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
               

@@ -36,6 +36,7 @@ export default function AdminDashboard() {
   useEffect(() => {
     fetchPosts()
     fetchProjects()
+  // eslint-disable-next-line react-hooks/exhaustive-deps -- mount-only fetch
   }, [])
 
   const fetchPosts = async () => {
@@ -163,7 +164,7 @@ export default function AdminDashboard() {
       {/* Header */}
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Yönetim Paneli</h1>
-        <p className="text-gray-600">Design World admin dashboard'una hoş geldiniz</p>
+        <p className="text-gray-600">Design World admin dashboard&apos;una hoş geldiniz</p>
       </div>
 
       {/* Stats Grid */}

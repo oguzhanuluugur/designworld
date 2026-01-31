@@ -117,7 +117,7 @@ export default function NewProjectPage() {
             <Building2 className="w-8 h-8 text-[#C5A059]" />
             Yeni Proje Ekle
           </h1>
-          <p className="text-gray-600">Portfolio'ya yeni bir mimari proje ekleyin</p>
+          <p className="text-gray-600">Portfolio&apos;ya yeni bir mimari proje ekleyin</p>
         </div>
         <Link
           href="/admin/dashboard"
