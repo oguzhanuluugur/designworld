@@ -4,8 +4,6 @@ const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // ✅ GitHub Pages: statik export
-  output: 'export',
   trailingSlash: true,
 
   // ✅ Repo adı ile aynı olmalı (https://oguzhanuluugur.github.io/designworld/)
